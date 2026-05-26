@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "Document design": {
+      "source": "jamditis/claude-skills-journalism",
+      "sourceType": "github",
+      "computedHash": "1a388f259e5894a04617d8b599719ec5e1adcf778eec81dbdf8324816b1ed8dc"
+    },
+    "docx-format": {
+      "source": "ninestep/docx-format-skill",
+      "sourceType": "github",
+      "computedHash": "f513973fea721a40877e4afce7cbe35f274eec4aa6f01a6507ab3dc81eb94f10"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "computedHash": "9e1c8b3103f92fa8092568a44fe64858de7c5c9dc65ce4bea8f168080e889cfd"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "43ca6c197f8ec13055079da7053232d477068b03ca443f9ac1bc819b95cdd432"
+    }
+  }
+}
